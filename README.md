@@ -1,1 +1,2 @@
-# cap1[깃허브.txt](https://github.com/KimKwangBin/cap1/files/8262959/default.txt)
+메이플 길드원 관리
+메이플스토리스템
