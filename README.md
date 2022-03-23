@@ -28,31 +28,31 @@ css
 -변경점 확인 후 새로 저장         
 
 
-#1
+##1
 
 
-#2week
-VMWare 와 Ubuntu, Docker, nginx 를 설치 후 실행을 하며 어떤 오류가 있었고 어떻게 해결했는지
+##2week
+VMWare 와 Ubuntu, Docker, nginx 를 설치 후 실행을 하며 어떤 오류가 있었고 어떻게 해결했는지               
 
 
 ![image](https://user-images.githubusercontent.com/101271598/159753537-ba73220c-8034-48b2-a843-b8123538309d.png)
 
-바이오스 세팅에서 가상화가 켜져있지 않을때 나오는 오류
+바이오스 세팅에서 가상화가 켜져있지 않을때 나오는 오류                        
 
 바이오스에 들어가서 svm mode라는 설정이 disable 로 나와있는 것을 enable 로 변경해서 해결                   
 https://jhnyang.tistory.com/236
 
 
-관리자 권한이 없어서 오류가 나는 경우 (명령을 실행 했을 때 Permission denied 라고 나올 경우)
+관리자 권한이 없어서 오류가 나는 경우 (명령을 실행 했을 때 Permission denied 라고 나올 경우)             
 리눅스에서 특정 명령어를 사용할 때 루트 권한이 필요한데 이를 일반 사용자가 사용하기 위해서 명령을 사용할때 명령 앞쪽에 sudo 를 붙여서 사용한다
 
 
 
-#3
-#4
-#5
-#6
-#7
-#8
-#9
+##3
+##4
+##5
+##6
+##7
+##8
+##9
 
