@@ -32,3 +32,15 @@ css
 
 
 #2
+
+![image](https://user-images.githubusercontent.com/101271598/159753537-ba73220c-8034-48b2-a843-b8123538309d.png)
+
+바이오스 세팅에서 가상화가 켜져있지 않을때 나오는 오류
+
+바이오스에 들어가서 svm mode라는 설정이 disable 로 나와있는 것을 enable 로 변경해서 해결
+https://jhnyang.tistory.com/236
+
+
+
+
+
