@@ -55,13 +55,13 @@ VMWare (https://catnip-archive.tistory.com/entry/VMware-VMware-%EB%AC%B4%EB%A3%8
 Ubuntu (https://catnip-archive.tistory.com/entry/VMware-VMware%EC%97%90-%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0feat-Ubuntu-1804-LTS) Docker (https://blog.dalso.org/linux/ubuntu-20-04-lts/13118)                                        
 nginx (https://whatisthenext.tistory.com/123)                                      
 
-os를 설치하기 위해 Play virtual machine 눌렀을 때 오류가 
+os를 설치하기 위해 Play virtual machine 눌렀을 때 나는 오류
 ![image](https://user-images.githubusercontent.com/101271598/159760086-2dfebcb5-8459-4f54-896f-cb8bb7a5456d.png)
-
+                               
 ![image](https://user-images.githubusercontent.com/101271598/159753537-ba73220c-8034-48b2-a843-b8123538309d.png)
-
+                                          
 바이오스 세팅에서 가상화가 켜져있지 않을때 나오는 오류                        
-
+                                              
 바이오스에 들어가서 svm mode라는 설정이 disable 로 나와있는 것을 enable 로 변경해서 해결                   
 https://jhnyang.tistory.com/236
 
