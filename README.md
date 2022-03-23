@@ -2,9 +2,16 @@
 
 메이플 스토리 게임에서 길드 관리를 편하게 도와주는 웹사이트
 
-                        
-## 사용언어
-java      
+                    
+## 구축 환경           
+VMWare                   
+Ubuntu                    
+Docker              
+nginx                
+
+
+## 사용 언어
+JavaScript    
 html       
 css       
 
@@ -21,3 +28,7 @@ css
 -변경점 확인 후 새로 저장         
 
 
+#1
+
+
+#2
