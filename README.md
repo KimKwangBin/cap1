@@ -31,7 +31,7 @@ css
                
 ## Linux와 Windows의 차이점
 -무료로 사용가능한 공개 OS             
--Linux는 자유로운 오픈소스 운영체제이지만 Windows는 소스코드에 접근 할 수없는 상용 운영 체제                      
+-자유로운 오픈소스 운영체제                               
 -Windows보다 보안성이 높음 (관리자 권한으로 로그인 하지 않으면 보호모드에서 작동, 오픈소스 라서 보안에 문제가 생길시 빠른 대처가 가능)                 
 -무료 오픈소스 프로그램이 다양함 (직접 소스를 수정 및 제작하여 배포 가능)                     
                          
@@ -49,11 +49,11 @@ nginx - 동시접속 처리에 특화된 웹 서버 프로그램
 ## 2
 VMWare 와 Ubuntu, Docker, nginx 를 설치 후 실행을 하며 어떤 오류가 있었고 어떻게 해결했는지      
 
-VMWare, Ubuntu 설치
+설치하는 방법
 
 VMWare (https://catnip-archive.tistory.com/entry/VMware-VMware-%EB%AC%B4%EB%A3%8C%EB%B2%84%EC%A0%84-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0Player-Window)             
-Ubuntu (https://catnip-archive.tistory.com/entry/VMware-VMware%EC%97%90-%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0feat-Ubuntu-1804-LTS)             
-
+Ubuntu (https://catnip-archive.tistory.com/entry/VMware-VMware%EC%97%90-%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0feat-Ubuntu-1804-LTS) Docker (https://blog.dalso.org/linux/ubuntu-20-04-lts/13118)            
+nginx (https://whatisthenext.tistory.com/123)
 
 os를 설치하기 위해 Play virtual machine 눌렀을 때 오류가 
 ![image](https://user-images.githubusercontent.com/101271598/159760086-2dfebcb5-8459-4f54-896f-cb8bb7a5456d.png)
