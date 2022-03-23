@@ -3,11 +3,12 @@
 메이플 스토리 게임에서 길드 관리를 편하게 도와주는 웹사이트
 
                     
-## 구축 환경           
+## 주요 구축 환경           
 VMWare                   
 Ubuntu                    
 Docker              
-nginx                
+nginx      
+Linux
 
 
 ## 사용 언어
@@ -26,18 +27,32 @@ css
 -길드 멤버 저장        
 -이후 인원의 변경점 비교 확인 (캐릭터의 닉네임)        
 -변경점 확인 후 새로 저장         
+                   
+               
+## Linux와 Windows의 차이점
+-무료로 사용가능한 공개 OS             
+-Linux는 자유로운 오픈소스 운영체제이지만 Windows는 소스코드에 접근 할 수없는 상용 운영 체제                      
+-Windows보다 보안성이 높음 (관리자 권한으로 로그인 하지 않으면 보호모드에서 작동, 오픈소스 라서 보안에 문제가 생길시 빠른 대처가 가능)                 
+-무료 오픈소스 프로그램이 다양함 (직접 소스를 수정 및 제작하여 배포 가능)                     
+                         
+
+## Linux를 사용하기 위한 준비 
+VMWare  - 가상 머신 소프트 웨어 
+Ubuntu - 운영체제
+Docker - Linux 컨테이너를 만들고 사용할 수 있도록 하는 컨테이너화 기술
+nginx - 동시접속 처리에 특화된 웹 서버 프로그램
 
 
 ## 1
 
 
-## 2week
+## 2
 VMWare 와 Ubuntu, Docker, nginx 를 설치 후 실행을 하며 어떤 오류가 있었고 어떻게 해결했는지      
 
 VMWare, Ubuntu 설치
 
-VMWare (https://catnip-archive.tistory.com/entry/VMware-VMware-%EB%AC%B4%EB%A3%8C%EB%B2%84%EC%A0%84-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0Player-Window)
-Ubuntu (https://catnip-archive.tistory.com/entry/VMware-VMware%EC%97%90-%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0feat-Ubuntu-1804-LTS)
+VMWare (https://catnip-archive.tistory.com/entry/VMware-VMware-%EB%AC%B4%EB%A3%8C%EB%B2%84%EC%A0%84-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0Player-Window)             
+Ubuntu (https://catnip-archive.tistory.com/entry/VMware-VMware%EC%97%90-%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0feat-Ubuntu-1804-LTS)             
 
 
 os를 설치하기 위해 Play virtual machine 눌렀을 때 오류가 
@@ -51,8 +66,10 @@ os를 설치하기 위해 Play virtual machine 눌렀을 때 오류가
 https://jhnyang.tistory.com/236
 
 
-관리자 권한이 없어서 오류가 나는 경우 (명령을 실행 했을 때 Permission denied 라고 나올 경우)             
-리눅스에서 특정 명령어를 사용할 때 루트 권한이 필요한데 이를 일반 사용자가 사용하기 위해서 명령을 사용할때 명령 앞쪽에 sudo 를 붙여서 사용한다
+명령을 실행 했을 때 Permission denied 라고 나오면서 다음 단계로 진행되지 않을 때             
+                                       
+관리자 권한이 없어서 오류가 나는 경우                             
+리눅스에서 특정 명령어를 사용할 때 루트 권한이 필요한데 이를 일반 사용자가 사용하기 위해서 명령을 사용할때 명령 앞쪽에 sudo 를 붙여서 해결
 
 
 
