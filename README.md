@@ -8,10 +8,7 @@ VMWare
 Ubuntu                    
 Docker              
 nginx      
-Linux
-
-
-## 사용 언어
+Linux                                     
 JavaScript    
 html       
 css       
