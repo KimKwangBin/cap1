@@ -57,11 +57,20 @@ nginx - 동시접속 처리에 특화된 웹 서버 프로그램
 -길드 검색              
 -길드 멤버 저장        
 -길드 멤버 변경점 비교 확인 (캐릭터의 닉네임)        
--변경점 확인 후 새로 저장         
+-변경점 확인 후 새로 저장  
+![image](https://user-images.githubusercontent.com/101271598/163008018-29f38b97-45a5-45e5-a840-94eca35acd64.png)
+
+이미지 넣기
                          
 ## 5주차 - 서버 구축 및 로그인 확인 
-mysql 사용, 
-로그인시 구글이나 카카오등 사용?
+redis (https://ozofweird.tistory.com/entry/Spring-Boot-Redis-Cache-MySQL-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-API-%EC%A0%9C%EC%9E%91)            
+mysql (https://velog.io/@seungsang00/Ubuntu-%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90-MySQL-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)                     
+
+redis 설치 중 마지막에 자동 실행 여부 부분에서 실행이 안됨                   
+찾아보니 chkconfig가 12 버전 이전에서만 지원하고 이후에는 지원을 안함                         
+다른방법도 찾아서 해볼려는데 실패함                            
+일단 해결방법을 찾기 전까지 자동실행이 아닌 직접 실행을 하면서 사용하기로 했음                            
+
 
 ## 6주차 - 기본 웹페이지 만들기
 가능한 기존 게임 홈페이지와 유사하게
