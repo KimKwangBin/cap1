@@ -52,13 +52,10 @@ nginx - 동시접속 처리에 특화된 웹 서버 프로그램
 
                            
 ## 4주차 - 간단한 페이지 구상
--로그인       
--게시판                         
--길드 검색              
--길드 멤버 저장        
--길드 멤버 변경점 비교 확인 (캐릭터의 닉네임)        
--변경점 확인 후 새로 저장  
-![image](https://user-images.githubusercontent.com/101271598/163008018-29f38b97-45a5-45e5-a840-94eca35acd64.png)
+처음 화면 검색했을 때
+![image](https://user-images.githubusercontent.com/101271598/163008128-9c1cd91d-4aa1-43fa-927c-d88c79a31382.png) ![image](https://user-images.githubusercontent.com/101271598/163008173-1e0f8f06-72d6-43fc-b38a-f2cb83053f92.png)
+
+
 
 이미지 넣기
                          
