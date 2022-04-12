@@ -52,12 +52,18 @@ nginx - 동시접속 처리에 특화된 웹 서버 프로그램
 
                            
 ## 4주차 - 간단한 페이지 구상
-처음 화면 검색했을 때
-![image](https://user-images.githubusercontent.com/101271598/163008128-9c1cd91d-4aa1-43fa-927c-d88c79a31382.png) ![image](https://user-images.githubusercontent.com/101271598/163008173-1e0f8f06-72d6-43fc-b38a-f2cb83053f92.png)
+처음 화면                   
+![image](https://user-images.githubusercontent.com/101271598/163008128-9c1cd91d-4aa1-43fa-927c-d88c79a31382.png)                   
+길드 검색 화면                         
+![image](https://user-images.githubusercontent.com/101271598/163008173-1e0f8f06-72d6-43fc-b38a-f2cb83053f92.png)                     
+저장한 데이터 불러오기                         
+![image](https://user-images.githubusercontent.com/101271598/163008332-9fe64fcb-b43a-4ec5-ba74-f38449e68d72.png)                              
+데이터 비교                                
+![image](https://user-images.githubusercontent.com/101271598/163008396-ccd97acf-5c15-44bb-a184-a1d0fadcf93c.png)                         
+게시판                       
+![image](https://user-images.githubusercontent.com/101271598/163008448-7edd678b-1837-4a8e-8697-deff98032d25.png)                           
 
 
-
-이미지 넣기
                          
 ## 5주차 - 서버 구축 및 로그인 확인 
 redis (https://ozofweird.tistory.com/entry/Spring-Boot-Redis-Cache-MySQL-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-API-%EC%A0%9C%EC%9E%91)            
