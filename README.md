@@ -76,7 +76,7 @@ redis 설치 중 마지막에 자동 실행 여부 부분에서 오류
 
 
 ## 6주차 - 기본 웹페이지 만들기
-
+사용하는 언어에 대한 패키지?
 ![image](https://user-images.githubusercontent.com/101271598/163275353-d0a852fa-ed0a-4c17-bbb9-110d9d970fc0.png)
 
                     
