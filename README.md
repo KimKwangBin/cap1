@@ -65,18 +65,20 @@ nginx - 동시접속 처리에 특화된 웹 서버 프로그램
 
 
                          
-## 5주차 - 서버 구축 및 로그인 확인 
+## 5주차 - Redis 및 Mysql 설치 확인 
 redis (https://ozofweird.tistory.com/entry/Spring-Boot-Redis-Cache-MySQL-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-API-%EC%A0%9C%EC%9E%91)            
 mysql (https://velog.io/@seungsang00/Ubuntu-%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90-MySQL-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)                     
 
-redis 설치 중 마지막에 자동 실행 여부 부분에서 실행이 안됨                   
-찾아보니 chkconfig가 12 버전 이전에서만 지원하고 이후에는 지원을 안함                         
-다른방법도 찾아서 해볼려는데 실패함                            
-일단 해결방법을 찾기 전까지 자동실행이 아닌 직접 실행을 하면서 사용하기로 했음                            
+redis 설치 중 마지막에 자동 실행 여부 부분에서 오류                   
+찾아보니 chkconfig가 12 이전 버전만 지원                        
+다른명령어 사용도 실패                            
+                            
 
 
 ## 6주차 - 기본 웹페이지 만들기
-가능한 기존 게임 홈페이지와 유사하게
+
+![image](https://user-images.githubusercontent.com/101271598/163275353-d0a852fa-ed0a-4c17-bbb9-110d9d970fc0.png)
+
                     
 ## 7주차 - 길드원 정보 가져오기, 로그인한 계정에 저장하기
 maple.gg 에서 가져올지 공식 홈페이지에서 가져올지
