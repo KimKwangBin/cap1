@@ -92,7 +92,7 @@ mysql (https://velog.io/@seungsang00/Ubuntu-%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90
                   
                   
 회원가입 페이지                                            
-![image](https://user-images.githubusercontent.com/101271598/170381953-896bd2b1-bcff-4ae7-b964-fa37fcb36f45.png)                               
+![image](https://user-images.githubusercontent.com/101271598/170385389-ae60f0c0-8418-4c24-9426-05bde152bbd5.png)                           
                                                      
                                                      
                                                      
