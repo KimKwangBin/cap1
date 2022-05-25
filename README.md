@@ -101,7 +101,7 @@ mysql (https://velog.io/@seungsang00/Ubuntu-%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90
                              
 
 DAO와 DTO를 이용해 회원가입페이지에서 입력한 정보를 데이터베이스에 저장하는 코드                            
-![image](https://user-images.githubusercontent.com/101271598/170382624-b0766e63-8480-4f15-9de4-e5619cd594ab.png)                                   
+![image](https://user-images.githubusercontent.com/101271598/170384573-ec4def5d-531e-469f-be6d-9b1b6e879438.png)                               
 
 
 
