@@ -97,7 +97,8 @@ mysql (https://velog.io/@seungsang00/Ubuntu-%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90
                                                      
                                                      
 데이터베이스에 로그인하여 정보를 저장할때 사용할 코드                                                               
-![image](https://user-images.githubusercontent.com/101271598/170382527-2235a613-d74e-47dc-a22a-5dc57e961ece.png)                             
+![Inked170382527-2235a613-d74e-47dc-a22a-5dc57e961ece_LI](https://user-images.githubusercontent.com/101271598/170383949-6d6d2cc0-b835-427a-9683-92ab05924052.jpg)
+                             
 
 DAO와 DTO를 이용해 회원가입페이지에서 입력한 정보를 데이터베이스에 저장하는 코드                            
 ![image](https://user-images.githubusercontent.com/101271598/170382624-b0766e63-8480-4f15-9de4-e5619cd594ab.png)                                   
